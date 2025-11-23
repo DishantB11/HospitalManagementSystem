@@ -10,7 +10,7 @@
 Brief overview of the Hospital Management System and its objectives.
 
 ## 3. Problem Statement
-[Copy from statement.md]
+In many small to mid-sized healthcare facilities, inefficient manual or fragmented digital systems lead to errors in patient record keeping, slow appointment scheduling, and poor tracking of staff duties and resource utilization. This results in decreased patient care quality, increased operational costs, and security vulnerabilities related to sensitive medical data.
 
 ## 4. Functional Requirements
 ### 4.1 Major Functional Modules:
