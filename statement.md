@@ -1,4 +1,4 @@
-# Project Statement: Hospital Management System
+# Hospital Management System
 
 ## Problem Statement
 In many small to mid-sized healthcare facilities, inefficient manual or fragmented digital systems lead to errors in patient record keeping, slow appointment scheduling, and poor tracking of staff duties and resource utilization. This results in decreased patient care quality, increased operational costs, and security vulnerabilities related to sensitive medical data.
